@@ -1,0 +1,78 @@
+
+[
+    {
+        "price": "$300",
+        "title": "Lego",
+        "rating": "4.6",
+        "quantity": "35",
+        "category": "lego star wars",
+        "image": "https://i.ibb.co/h90RBns/lego1.jpg",
+        "deadline": "",
+        "postedBy": "shohag@bd.com",
+        "description": "The Lego City sets often feature interactive elements, such as working doors, moving parts, and accessories, which add to the fun and realism of the play experience. These toys promote creativity, problem-solving skills, and storytelling, providing hours of entertainment for children of various ages."
+      },
+      {
+      
+        "price": "$50",
+        "title": "Puzzel set",
+        "rating": "4.2",
+        "quantity": "15",
+        "category": "lego star wars",
+        "image": "https://i.ibb.co/kmYN8w4/lego2.jpg",
+  
+        "deadline": "",
+        "postedBy": "john@example.com",
+        "description": "This remote control car is a high-speed racing car that provides thrilling fun for kids and adults alike. It features a durable construction and powerful motors for fast and precise control. The car can perform amazing stunts, such as 360-degree spins and flips. It comes with a rechargeable battery and a remote control with easy-to-use buttons. This toy is perfect for outdoor play and encourages hand-eye coordination and spatial awareness."
+      },
+      {
+     
+        "price": "$25",
+        "title": "Lego car",
+        "rating": "4.8",
+        "quantity": "20",
+        "category": "lego city",
+        "image": "https://i.ibb.co/YdkZ6f7/lego3.jpg",
+        "deadline": "",
+        "postedBy": "emma@example.com",
+        "description": "This puzzle set includes various colorful and engaging puzzles that provide hours of entertainment and cognitive development. Each puzzle features different difficulty levels suitable for different ages. They are made from high-quality materials for durability. Solving puzzles helps develop problem-solving skills, hand-eye coordination, and concentration. This set is perfect for individual or group play."
+      },
+      {
+     
+        "price": "$35",
+        "title": "Art Set",
+        "rating": "4.5",
+        "quantity": "10",
+        "category": "lego city",
+        "image": "https://i.ibb.co/0C5d05k/lego4.jpg",
+        "deadline": "",
+        "postedBy": "alex@example.com",
+        "description": "This art set contains a variety of art supplies, including colored pencils, markers, paints, brushes, and sketching tools. It offers a wide range of artistic possibilities and encourages creativity. The set is ideal for both beginners and experienced artists. Whether you enjoy drawing, painting, or sketching, this art set has everything you need to unleash your artistic talents."
+      },
+      {
+      
+        "price": "$20",
+        "title": "Building Blocks",
+        "rating": "4.3",
+        "quantity": "50",
+        "category": "lego cars",
+        "image": "https://i.ibb.co/hHSFc4q/lego5.jpg",
+        "deadline": "",
+        "postedBy": "jane@example.com",
+        "description": "These building blocks offer endless possibilities for creative construction and imaginative play. They come in various shapes, sizes, and vibrant colors, allowing children to build structures, vehicles, and more. The blocks are made from safe and durable materials, ensuring long-lasting use. Building with these blocks helps develop fine motor skills, spatial awareness, and logical thinking. Let your child's imagination soar with this engaging and educational toy!"
+      },
+      {
+     
+        "price": "$20",
+        "title": "Building Blocks",
+        "rating": "4.8",
+        "quantity": "50",
+        "category": "lego cars",
+        "image": "https://i.ibb.co/bd7rHYP/lego6.jpg",
+        "deadline": "",
+        "postedBy": "jane@example.com",
+        "description": "These building blocks offer endless possibilities for creative construction and imaginative play. They come in various shapes, sizes, and vibrant colors, allowing children to build structures, vehicles, and more. The blocks are made from safe and durable materials, ensuring long-lasting use. Building with these blocks helps develop fine motor skills, spatial awareness, and logical thinking. Let your child's imagination soar with this engaging and educational toy!"
+      }
+]
+    
+
+

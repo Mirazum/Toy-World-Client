@@ -1,0 +1,8 @@
+.tab{
+    padding: 13px 40px;
+    background-color: #fff;
+    cursor: pointer;
+}
+.tab2{
+    border: 2px solid gray;
+}

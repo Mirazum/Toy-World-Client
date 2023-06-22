@@ -1,0 +1,25 @@
+.head-text {
+    position: relative;
+    color: white
+}
+
+.center-text {
+    position: absolute;
+    top: 50%;
+    left: 70%;
+    transform: translate(-50%, -50%);
+}
+
+
+.heading-text {
+    font-family: 'Poppins';
+    font-style: normal;
+    color:whitesmoke;
+    font-weight: 800;
+    font-size: 50px;
+    line-height: 45px;
+    padding: 10px;
+    /* or 150% */
+
+    
+}
